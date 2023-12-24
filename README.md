@@ -1,6 +1,6 @@
 # Vectornav ROS Driver
 
-test 
+test 2
 This repository contains the ROS packages for the Vectornav INS & GPS devices.
 
 > **_NOTE:_**  Currently only Vectornav VN100 with version `2.1.0` and `3.0.0` has been tested. Please open an issue if you need support for other versions.
